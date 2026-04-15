@@ -1,7 +1,5 @@
 # Movie hub
 
-A compact Python + Streamlit project for movie analytics and recommendations.
-
 ## What this app does
 - Dashboard with dataset statistics and charts
 - Recommender tab based on movie similarity
